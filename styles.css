@@ -6,6 +6,7 @@ h1,p{
     background-color: #113641;
     color: white;
     font-size: 18px;
+    overflow-x: hidden;
   }
   label{
     display: block;
@@ -49,6 +50,7 @@ h1,p{
     display:block;
     background-color: #2DB57A;
     width: 30%;
+    min-width: 200px;
     font-size: 0.8rem;
     margin: auto;
     border-color: #3CF0A3;
